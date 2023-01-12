@@ -175,3 +175,89 @@
 .call-icon{
     width: 80px;
 }
+.blog-container{
+    width: 100%;
+    height: 100vh;
+    padding: 20 px;
+
+}
+
+
+.blog-description{
+    
+    font-size: 22px;
+    
+    margin: 0 350px;
+    padding: 10px;
+    
+
+}
+.blog-news{
+    padding-left: 500px;
+    padding-top: 25px;
+}
+    
+
+.blog-title{
+    font-size: 25px;
+    justify-content: center;
+    
+    
+}
+
+
+.blog-box{
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    margin: 0 80px;
+    
+   
+    
+}
+.blog-image{
+    width: 100%;
+    height: 50%;
+    border-radius: 15px;
+    padding: 0;
+}
+.blogs{
+    box-shadow: 4px 4px 8px gray;
+    border-radius: 15px;
+    margin-top: 100px;
+    height: 450px;
+    width: 350px;
+
+}
+.blog-sub-title{
+    padding: 15px;
+    height: 50px;
+    font-size: 25px;
+}
+.sub-description{
+    font-size: 18px;
+    padding: 15px;
+}
+/* footer section */
+.footer-section{
+    width: 100%;
+    height: 70vh;
+    background-image: url("/asset/image/footer-bg.png"), linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 9));
+    background-blend-mode: overlay;
+    color: white;
+    padding: 40 px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.footer-title{
+    width: 250px;
+    height: 200px;
+ 
+}
+
+/* *{
+    border: 1px solid red;
+} */
